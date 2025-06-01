@@ -6,7 +6,7 @@ import Feed from "./Components/Feed";
 import VideoDetail from "./Components/VideoDetail";
 import ChannelDetail from "./Components/ChannelDetail";
 import SearchFeed from "./Components/SearchFeed";
-import  SearchBar from "./Components/SearchBar";
+
 function App() {
   return (
     <BrowserRouter>
